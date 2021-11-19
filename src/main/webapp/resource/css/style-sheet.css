@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:red;
+}
+
+.myFonts {
+	font-size:20px;
+	
+}
+
+.myButton {
+	color:white;
+	background-color:green;
+	border:2px solid yellow;
+	font-size:24px;
+}
+
+.mySubmit
+{
+	color:white;
+	background-color:green;
+	border:1px solid yellow;
+	font-size:24px;
+}
+
+.myButton:hover{
+	color:black;
+	background-color:blue;
+}
+
